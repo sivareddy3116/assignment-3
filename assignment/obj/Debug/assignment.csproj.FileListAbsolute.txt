@@ -1,0 +1,7 @@
+E:\gitassignment\gitassignment 3\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+E:\gitassignment\gitassignment 3\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+E:\gitassignment\gitassignment 3\assignment\assignment\bin\Debug\assignment.exe.config
+E:\gitassignment\gitassignment 3\assignment\assignment\bin\Debug\assignment.exe
+E:\gitassignment\gitassignment 3\assignment\assignment\bin\Debug\assignment.pdb
+E:\gitassignment\gitassignment 3\assignment\assignment\obj\Debug\assignment.exe
+E:\gitassignment\gitassignment 3\assignment\assignment\obj\Debug\assignment.pdb
